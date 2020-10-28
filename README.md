@@ -49,3 +49,9 @@ git commit -m 'first commit'
 
 git push origin master
 
+git remote set-head origin --auto
+
+git branch -r
+
+git gc
+
